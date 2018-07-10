@@ -1,2 +1,5 @@
-# android-launcher
-Android partner app launcher testbed
+# Moven Android Launcher
+
+Testbed to see if the parameters are correct when launching the partner app.
+
+

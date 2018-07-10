@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Moven Android Launcher</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_app_id">App ID</string>
+    <string name="prompt_main_activity">Main Activity</string>
+    <string name="prompt_action">Action</string>
+    <string name="action_check">Check</string>
+    <string name="action_launch">Launch</string>
+    <string name="action_launch_short">Launch</string>
+    <string name="error_invalid_email">This component is too short</string>
+    <string name="error_invalid_password">This action is too short</string>
+    <string name="error_incorrect_password">This launch parameters failed</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
